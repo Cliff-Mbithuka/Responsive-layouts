@@ -22,10 +22,10 @@ background: #23424a;
 button{
     background-color: aqua;
     color: black;
-    padding: 1em;
-    border-radius: 2em;
+    padding: .25em 1.25em;
+    border-radius: 100px;
     border: none;
-    width: 30%;
+    
     font-size: 1rem;
 }
 
